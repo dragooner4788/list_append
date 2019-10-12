@@ -1,2 +1,3 @@
-# list_append
-small program I made that holds text in a list.
+# List Append
+
+This is a small program I created that holds text within a list. 
